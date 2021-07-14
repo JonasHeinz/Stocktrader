@@ -1,0 +1,13 @@
+{
+    "stocks": [
+        {"id":"google", "name": "Google", "price": 80, "change": "equal"},
+        {"id":"bmw", "name": "BMW", "price": 100, "change": "equal"},
+        {"id":"audi", "name": "Audi", "price": 30, "change": "equal"},
+        {"id":"amazon", "name": "Amazon", "price": 200, "change": "equal"}
+    ],
+    "portfolio": [
+        {"id":"google", "quantity": 100},
+        {"id":"bmw", "quantity": 30}
+    ],
+    "funds": 10000
+}
